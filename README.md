@@ -191,4 +191,5 @@ contracts (feature functions, scorer, API schemas) remain unchanged.
 
 ## Author
 
-Built by [Aditya Garg](https://github.com/adigarg12)
+Built by [Tanvi Nema](https://github.com/TanviNema1) and [Anushka Gupta](https://github.com/lightningMcQueen9595)
+
